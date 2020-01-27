@@ -1,0 +1,2 @@
+Numbers of site:3 Numbers of student per site01:20 Numbers of student per site02:30 Numbers of student per site03:20 Total class size:20 Numbers of Assignment:10 Numbers of Project:1 Numbers of Exam:2
+Numbers of site:2 Numbers of student per site01:10 Numbers of student per site02:20 Numbers of student per site03:0  Total class size:20 Numbers of Assignment:10 Numbers of Project:1 Numbers of Exam:2
