@@ -80,4 +80,21 @@ Last name, first name, Site, HA
 Last name, first name, Site, Project
 * Menu 4.5 shows list per grade and per course if there are more than one course data.
 
+## Menu 5
+![image](https://user-images.githubusercontent.com/48393773/73150546-74f47b80-408c-11ea-8352-b2c38b65e919.png)
+* Menu 5.1 adds a new student record to the list by manual user interaction.
+* Menu 5 prompts the input for the following order:  HW1 .. HWn accepts homework scores.
+![image](https://user-images.githubusercontent.com/48393773/73150563-8b023c00-408c-11ea-8d09-dd3b606deb7b.png)
+
+##### The system interaction interface can be user defined. You can build your own nice interface to user.After inserting a student record, verifies the new record into the screen and returns to the main menu.
+* Menu 5.2 deletes a person from the list. Finding a person by different keys is what you can define such as name, SID, or others.
+* Menu 5.3 changes score(s) of a record(s).  It’s also a free design part.
+
+## Menu 6
+Exit the project.
+
+## Default log
+##### Record all interactions on the screen as a log file: log.txt
+##### After exiting the program by choosing menu 7, a log file will be created and the log file should be readable by normal ASCII editor (e.g. notepad in MS Windows).
+The format and information of the logs are your own free design. The logs are used for maintenance purpose.
 
